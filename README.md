@@ -1,1 +1,1 @@
-# pdv_evento
+# pdv-evento
